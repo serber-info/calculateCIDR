@@ -15,7 +15,7 @@ from typing import Dict, List, Tuple, Union
 
 from shellcolorize import Color
 
-VERSION = "2.1.0"
+VERSION = "2.1.1"
 
 Network = Union[ipaddress.IPv4Network, ipaddress.IPv6Network]
 
